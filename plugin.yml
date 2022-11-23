@@ -1,0 +1,13 @@
+name: TimeCheck
+api: 4.0.0
+author: BlackAngels56
+version: 1.0.0
+main: BlackAngels56\TimeCheck\Main
+
+commands:
+  timecheck:
+    permission: timecheck.command
+
+permissions:
+  playtime.command:
+    default: true
